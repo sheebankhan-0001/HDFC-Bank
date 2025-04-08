@@ -7,15 +7,15 @@ Internship_Report.pdf: The main document providing an in-depth account of the in
 
 Introduction to HDFC Bank and its operations.
 
-Objectives and scope of the internship.
+Objectives and scope of the internship:
 
-Detailed description of projects and tasks completed.
+* Detailed description of projects and tasks completed.
 
-Analyses conducted and methodologies employed.
+* Analyses conducted and methodologies employed.
 
-Findings, conclusions, and recommendations.
+* Findings, conclusions, and recommendations.
 
-Personal reflections and professional growth insights.
+* Personal reflections and professional growth insights.
 
 Key Highlights:
 Project on Customer Relationship Management: Focused on enhancing customer retention strategies by analyzing customer feedback and profiling data to improve service quality.
@@ -25,13 +25,13 @@ Sales Performance Analysis: Assisted in developing dashboards to visualize sales
 Market Research and Competitor Analysis: Conducted thorough market research to understand industry trends and performed competitor analysis to support strategic business decisions.
 
 Learning Outcomes:
-Enhanced understanding of banking operations and financial services.
+* Enhanced understanding of banking operations and financial services.
 
-Developed proficiency in data analysis and visualization techniques.
+* Developed proficiency in data analysis and visualization techniques.
 
-Gained experience in customer relationship management strategies.
+* Gained experience in customer relationship management strategies.
 
-Improved skills in market research and competitive analysis.
+* Improved skills in market research and competitive analysis.
 
 Acknowledgments:
 I would like to express my gratitude to HDFC Bank for providing this internship opportunity, and to my mentors and colleagues for their guidance and support throughout the duration of the internship.
